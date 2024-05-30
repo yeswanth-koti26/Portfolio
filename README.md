@@ -36,9 +36,11 @@ I'm a versatile developer proficient in multiple programming languages and techn
 - **Introduction to Networks** by Cisco Network Academy
 - **Introduction to IT and Cyber Security** by Cybrary
 - **Microsoft certified: Azure Fundamentals (AZ-900)** by Microsoft
+- **AWS Cloud  practitioner** by AWS 
 
 ## 📈 Projects
-- **Route Optimization Algorithm:** Designed to minimize travel time and fuel consumption for delivery vehicles using C++.
+- **TaskMaster Pro - Project Management Application:** Developed a comprehensive project management application to enhance team collaboration and task management efficiency. Key features include user authentication, task assignment, commenting, and task status tracking.
+        - **Tech Stack:** React, Node.js, Express, MongoDB, JWT, CSS
 - **Cloud-Native Data Processing Pipeline:** Developed on AWS with a 20% speed boost and 25% cost reduction.
 - **AI-Based Pest Detection:** Focused on using AI techniques to detect pest-infected crops and leaves.
 
